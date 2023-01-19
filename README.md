@@ -1,4 +1,4 @@
-# clone-disneyplus
+# Clone-Disneyplus
 
 Projeto de Clone do DisneyPlus usando HTML, SASS, BEMCSS, GULP, JAVASCRIPT.
 
